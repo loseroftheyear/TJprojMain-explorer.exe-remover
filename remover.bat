@@ -1,6 +1,6 @@
 @echo off
 title TJprojMain remover
-echo Starting soon, don't touch anything
+echo Fuck my ass (by : 9)
 timeout 3 > NUL
 cls
 if %CD%==C:\ goto DeleteC
